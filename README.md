@@ -14,4 +14,4 @@ python3 -m pip install tensorflow
 python3 -m pip install keras
 python3 -m pip install keras_sequential_ascii
 ```
-Open the folder "script" and run sh script to run the experiment.
+Open the "script" file with extension of "sh" to run the experiment.
